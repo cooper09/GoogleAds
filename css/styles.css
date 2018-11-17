@@ -1,0 +1,18 @@
+.content {
+    background: #ccc;
+    margin: 1em;
+    width: 90%;
+    position:absolute;
+    top:0;
+    bottom:0;
+    padding: 1em;
+}
+.ad {
+    background: #333;
+    position: fixed;
+    bottom: 1em;
+    width: 90%; 
+    color: #ccc;
+    padding: 1em;
+    margin: -1em;
+}
